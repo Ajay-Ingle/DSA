@@ -1,5 +1,3 @@
-// package PatternsInJava;
-import java.util.*;
 
 public class hollowRect {
    
